@@ -1,0 +1,9 @@
+.card {
+  width: 400px;
+  background: #C5CAE9;
+}
+
+.header-image {
+  background-image: 'logo.png';
+  background-size: cover;
+}
