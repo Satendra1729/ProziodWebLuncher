@@ -4,6 +4,10 @@
 }
 
 .header-image {
-  background-image: 'logo.png';
-  background-size: cover;
-}
+  background-image: url('./logo.png');
+  background-size: 70px 40px;
+   background-repeat: no-repeat;
+  width : 71px; 
+  float : right;
+  margin-right : 10px; 
+  }
